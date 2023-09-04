@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asjid Ali</h1>
+![imgs](https://github.com/AsjidAle/AsjidAle/assets/106756756/9149d9b4-df37-46e8-a600-82a3036a3322)<h1 align="center">Hi 👋, I'm Asjid Ali</h1>
 <h3 align="center">A passionate Full Stack Web App developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjidale&label=Profile%20views&color=0e75b6&style=flat" alt="asjidale" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asjidale&label=Profile%20views&color=0e75b6&style=flat" alt="asjidale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![imgs](https://github.com/AsjidAle/AsjidAle/assets/106756756/d2faae7e-13d8-4ee2-952c-64380cb67749)
-" alt="asjidale" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/asjidale" target="blank"><img src="https://img.shields.io/twitter/follow/asjidale?logo=twitter&style=for-the-badge" alt="asjidale" /></a> </p>
 
@@ -22,7 +20,7 @@
 
 - 📫 How to reach me **asjidale@gmail.com**
 
-- ⚡ Fun fact **I think AI is replacing dumb jobs and help creativity more fast.**
+- ⚡ Fun fact **"I think AI is replacing dumb jobs and help creativity more fast."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
