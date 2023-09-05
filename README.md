@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Technical Finance content**
 
-- 👨‍💻 All of my projects are available at [github/asjidale](github/asjidale)
+<!--- 👨‍💻--> 
 
 - 💬 Ask me about **Laravel, MySQL, PHP, JQuery, Bootstrap, JS, C, CPP, Multithreading**
 
