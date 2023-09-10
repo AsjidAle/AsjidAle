@@ -1,6 +1,5 @@
 ![Screenshot from 2023-09-04 19-07-35 (2)](https://github.com/AsjidAle/AsjidAle/assets/106756756/d2f8b036-ac2f-44ff-9e18-6a21865a0d6d)
 
-
 <h1 align="center">Hi 👋, I'm Asjid Ali</h1>
 <h3 align="center">A passionate Full Stack Web App developer</h3>
 
