@@ -29,7 +29,7 @@
 
 <!--- 👨‍💻--> 
 
-- 💬 Ask me about **Laravel, MySQL, PHP, JQuery, Bootstrap, JS, C, CPP, Multithreading**
+- 💬 Ask me about **React, Node.Js, Laravel, MySQL, PHP, JQuery, Bootstrap, JS, C, CPP, Multithreading**
 
 - 📫 How to reach me **asjidale@gmail.com**
 
@@ -47,8 +47,8 @@ Here are some of the projects I have been working on recently
 #  💻 Expertise
 #### ✔️ C/CPP 
 #### ✔️ HTML, CSS, JavaScript, PHP
-#### ✔️ MYSQL, SQL, 
-#### ✔️ Laravel, Bootstrap
+#### ✔️ MYSQL, SQL
+#### ✔️ Bootstrap, React, JQuery, Node.Js, Laravel
 
 
 <!--Ending-->
