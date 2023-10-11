@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Finance Web Projects**
-
 - 🤝 I’m looking for help with **Technical Finance content**
 
 <!--- 👨‍💻--> 
