@@ -1,13 +1,7 @@
-![Screenshot from 2023-09-04 19-07-35 (2)](https://github.com/AsjidAle/AsjidAle/assets/106756756/d2f8b036-ac2f-44ff-9e18-6a21865a0d6d)
 
-<h1 align="center">Hi 👋, I'm Asjid Ali</h1>
-<h3 align="center">A passionate Full Stack Web App developer</h3>
-
-<!--Starting-->
+![image](https://github.com/AsjidAle/AsjidAle/assets/106756756/b4252735-89ac-4184-b694-762a0f5b61e5)
 
 
-
-</p>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -17,26 +11,24 @@
   <img src="https://profile-counter.glitch.me/asjidale/count.svg" />  
 </p>
 
+
+<p align="center"> <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=asjidale&hide=javascript,html,css&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 70% />
+
 <p align="left"> <a href="https://twitter.com/asjidale" target="blank"><img src="https://img.shields.io/twitter/follow/asjidale?logo=twitter&style=for-the-badge" alt="asjidale" /></a> </p>
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **Laravel, React**
 
-- 🌱 I’m currently learning **MERN**
-
-- 🤝 I’m looking for help with **Technical Finance content**
-
-<!--- 👨‍💻--> 
-
-- 💬 Ask me about **React, Laravel, MySQL, PHP, ,JavaSript, JQuery, Bootstrap, JS, C, CPP, Multithreading**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **asjidale@gmail.com**
 
 
-<p align="center"> <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=asjidale&hide=javascript,html,css&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 70% />
-
 
 ### Latest Projects 
 Here are some of the projects I have been working on recently
+- DSA
+- University Management System
+- Customer Relationship Management System
 
 <div align="center">
  
@@ -46,7 +38,7 @@ Here are some of the projects I have been working on recently
 #### ✔️ C/CPP 
 #### ✔️ HTML, CSS, JavaScript, PHP
 #### ✔️ MYSQL, SQL
-#### ✔️ Bootstrap, React, JQuery, Node.Js, Laravel
+#### ✔️ Laravel, React Bootstrap, Next.js
 
 
 <!--Ending-->
