@@ -12,14 +12,24 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=asjidale&hide=javascript,html,css&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 90% />
+<p align="center">
+  <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=asjidale&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 90% />
 
-### Latest Projects 
+</p>
+
+
+
+### Projects  
 Here are some of the projects I have been working on recently
 - DSA
+- Ecommrace site
+- Crypto Platform
+- Platform to connect Farmers to sellers
+- Blog site
+- Chatting App
 - University Management System
 - Customer Relationship Management System
-
+<strong>All projects are Custom Web Apps</strong>
 
 #  <div align="center">Languages and Tools</div>
 
