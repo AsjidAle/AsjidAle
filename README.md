@@ -47,13 +47,13 @@ Here are some of the projects I have been working on recently
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jquery,express,bootstrap,php,python,bash,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jquery,express,bootstrap,php,python,c,cpp,bash,vim" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mysql,firebase,npm,c,cpp,wordpress,linux,ubuntu,aws" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mysql,firebase,npm,wordpress,linux,ubuntu,aws,azure,gcp" />
   </a>
 </p>
 
