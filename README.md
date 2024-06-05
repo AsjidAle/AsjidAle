@@ -46,14 +46,14 @@ Here are some of the projects I have been working on recently
 #  <div align="center">Languages and Tools</div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jquery,express,php,python,c,cpp,bash,vim" />
+  <a href="https://wa.me/923049043909">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jquery,express,npm,php,python,c,cpp,bash,vim" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,mysql,firebase,npm,wordpress,linux,ubuntu,aws,azure,gcp" />
+  <a href="https://wa.me/923049043909">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,mysql,firebase,wordpress,linux,ubuntu,ansible,aws,azure,gcp" />
   </a>
 </p>
 
