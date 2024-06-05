@@ -47,13 +47,19 @@ Here are some of the projects I have been working on recently
 
 <p align="center">
   <a href="https://wa.me/923049043909">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jquery,express,npm,php,python,c,cpp,bash,vim" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,jquery,express,npm,php,python,c,cpp" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://wa.me/923049043909">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,mysql,firebase,wordpress,linux,ubuntu,ansible,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,mysql,firebase,wordpress" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/923049043909">
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,ubuntu,ansible,github,jenkins,aws,azure,gcp" />
   </a>
 </p>
 
