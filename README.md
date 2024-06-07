@@ -59,7 +59,7 @@ Here are some of the projects I have been working on recently
 
 <p align="center">
   <a href="https://wa.me/923049043909">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,ubuntu,ansible,github,jenkins,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,ubuntu,ansible,docker,github,jenkins,aws,azure,gcp" />
   </a>
 </p>
 
