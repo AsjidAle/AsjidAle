@@ -53,13 +53,13 @@ Here are some of the projects I have been working on recently
 
 <p align="center">
   <a href="https://wa.me/923049043909">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,postgresql,mysql,firebase,linux,wordpress" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vite,next,mongodb,sqlite,postgresql,mysql,firebase,wordpress" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://wa.me/923049043909">
-    <img src="https://skillicons.dev/icons?i=bash,vim,ubuntu,ansible,docker,kubernetes,github,jenkins,terraform,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=bash,vim,linux,ubuntu,ansible,docker,kubernetes,github,jenkins,terraform,aws,azure,gcp" />
   </a>
 </p>
 
