@@ -63,53 +63,14 @@ Here are some of the projects I have been working on recently
   </a>
 </p>
 
-
-<p align="center">&nbsp;<img width="75%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjidale&" alt="asjidale" width = 70% /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asjidale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asjidale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" width="50%" />
+ <br />
+ <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjidale&" alt="asjidale" width = 70% />
+
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asjidale&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -121,11 +82,3 @@ Here are some of the projects I have been working on recently
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="http://employees.oneonta.edu/bugyijp/cart306/may-the-source-img.png"  />
-</div>
-
-###
