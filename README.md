@@ -34,7 +34,7 @@
 ### Projects  
 Here are some of the projects I have been working on recently
 - DSA
-- Ecommrace site
+- Custom Ecommrace
 - Crypto Platform
 - Platform to connect Farmers to sellers
 - Blog site
