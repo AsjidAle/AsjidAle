@@ -40,7 +40,6 @@ Here are some of the projects I have been working on recently
 - Chatting App
 - University Management System
 - Customer Relationship Management System
-<strong>All projects are Custom Web Apps</strong>
 
 #  <div align="center">Languages and Tools</div>
 
