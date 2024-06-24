@@ -74,7 +74,7 @@ Here are some of the projects I have been working on recently
 
 ###
 
-<h2 align="center">Have a project idea or developer? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
+<h2 align="center">Have a project idea or need developer/DevOps? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
 
 
 <br clear="both">
