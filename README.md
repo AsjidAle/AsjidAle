@@ -75,11 +75,3 @@ Here are some of the projects I have been working on recently
 ###
 
 <h2 align="center">Have a project idea or need developer/DevOps? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
-
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
