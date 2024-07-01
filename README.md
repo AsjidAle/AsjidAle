@@ -5,8 +5,8 @@
 <h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=4609FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Asjid+Ali+Full+Stack+Developer!" alt="Typing SVG" /></a></h1>
 
 
- <summary>☎️ How to reach me :</summary>
-  <table border="3" radius="20">
+ <summary>☎️ Reach me :</summary>
+  <table border="3" radius="20" align="center">
     <td><a href="https://wa.me/923049043909" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
     <td><a href="https://www.linkedin.com/in/asjid-ali-848106259/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
     <td><a href="https://www.instagram.com/asjidale/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
@@ -28,18 +28,6 @@
   <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=asjidale&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 75% />
 
 </p>
-
-
-
-### Projects  
-Here are some of the projects I have been working on recently
-- DSA
-- Custom Ecommrace
-- Crypto Platform
-- Blog site
-- Chatting App
-- University Management System
-- Customer Relationship Management System
 
 #  <div align="center">Languages and Tools</div>
 
