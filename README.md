@@ -2,7 +2,9 @@
 ![image](https://github.com/AsjidAle/AsjidAle/assets/106756756/b4252735-89ac-4184-b694-762a0f5b61e5)
 
 
-<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=4609FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Asjid+Ali+Full+Stack+Developer!" alt="Typing SVG" /></a></h1>
+<h1 align="center"> 
+<a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=4609FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Asjid+Ali+Full+Stack+Developer!" alt="Typing SVG" /></a> 
+</h1>
 
 
  <summary>☎️ Reach me :</summary>
