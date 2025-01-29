@@ -32,7 +32,7 @@ I'm a Software Engineer fluent in `Full Stack Web Applications`, `Progressive We
 ![React](https://skillicons.dev/icons?i=react,next,js,ts,remix,bootstrap,tailwind,)
 
 **Backend Technologies:**
-![Node.js](https://skillicons.dev/icons?i=nodejs,next,js,ts,express,laravel,django,kafka,php,python)
+![Node.js](https://skillicons.dev/icons?i=nodejs,next,js,ts,express,laravel,kafka,php,python)
 
 
 **Database Technologies:**
@@ -49,6 +49,5 @@ I'm a Software Engineer fluent in `Full Stack Web Applications`, `Progressive We
  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjidale&" alt="asjidale" width = 70% />
 </div>
 
-###
 
-<h2 align="center">Have a project idea or need developer/DevOps? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
+<h2 align="center">Have a project idea or need Full Stack Engineer? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
