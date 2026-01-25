@@ -30,6 +30,7 @@ I don’t just write code — I **engineer systems that scale**.
 - **(End-to-End Ownership)**
 - **SaaS Products | Custom Products** (MVP → Scale)
 - **LLM integrated & AI-Driven Systems**
+- **<a href="https://leetcode.com/u/asjidale">LeetCode Problem**
 - **Open Source Contributions**
 
 ---
